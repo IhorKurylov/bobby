@@ -1,0 +1,21 @@
+@font-face {
+    font-family: "GrapeNuts";
+    src: url("./fonts/Grape_Nuts/GrapeNut.ttf");
+}
+
+@font-face {
+    font-family: "In-Bold";
+    src: url("./fonts/Inconsolata/Inconsolata-VariableFont_wdth,wght.ttf");
+    src: url("./fonts/Inconsolata/static/Inconsolata/Inconsolata-ExtraLight.ttf");
+    /*src: url("./fonts/Inconsolata/inconsolata-variablefont_wdthwght-webfont.woff2");*/
+    /*src: url("./fonts/Inconsolata/static/Inconsolata/Inconsolata-Bold.ttf");*/
+}
+
+@font-face {
+    font-family: "Inconsolata";
+    src: url("./fonts/Inconsolata/static/Inconsolata/Inconsolata-ExtraLight.ttf");
+    /*!*src: url("./fonts/Inconsolata/Inconsolata-VariableFont_wdth,wght.ttf");*!*/
+    /*src: url("./fonts/Inconsolata/static/Inconsolata/Inconsolata-ExtraLight.ttf");*/
+    /*!*src: url("./fonts/Inconsolata/inconsolata-variablefont_wdthwght-webfont.woff2");*!*/
+    /*!*src: url("./fonts/Inconsolata/inconsolata-variablefont_wdthwght-webfont.woff");*!*/
+}

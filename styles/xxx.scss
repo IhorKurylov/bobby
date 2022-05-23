@@ -1,0 +1,33 @@
+@import "variables";
+
+@mixin main($bgColor, $width) {
+  width: $width;
+  background-color: $bgColor;
+}
+ @mixin mainHard{
+     width: 100%;
+     background-color: red;
+ }
+
+.primary{
+  height: 800px;
+  @include main(yellow, 100%);
+  // @include main;
+
+}
+
+body .container .buttonBlack {
+  color: black;
+  font-size: 30px;
+}
+
+.container .row .col{
+  background-color: $background_primary_color;
+
+}
+
+.container .row div {
+  border: 1px solid red;
+  height: 130px !important;
+}
+

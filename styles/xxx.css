@@ -1,0 +1,21 @@
+.primary {
+  height: 800px;
+  width: 100%;
+  background-color: yellow;
+}
+
+body .container .buttonBlack {
+  color: black;
+  font-size: 30px;
+}
+
+.container .row .col {
+  background-color: #a44c4c;
+}
+
+.container .row div {
+  border: 1px solid red;
+  height: 130px !important;
+}
+
+/*# sourceMappingURL=xxx.css.map */
